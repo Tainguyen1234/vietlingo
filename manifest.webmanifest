@@ -1,0 +1,15 @@
+{
+  "id": "./vietlingo_v2_1_offline_ready.html",
+  "name": "VIETLINGO — Learn Vietnamese",
+  "short_name": "VIETLINGO",
+  "description": "Explore Vietnam and learn Vietnamese through guided lessons, practice and games.",
+  "lang": "en",
+  "start_url": "./vietlingo_v2_1_offline_ready.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0b0d1d",
+  "theme_color": "#0b0d1d",
+  "categories": ["education", "language"],
+  "icons": []
+}
