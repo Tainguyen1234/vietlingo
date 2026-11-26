@@ -1,0 +1,10 @@
+{
+ "id":"./vietlingo_v2_2_installable.html",
+ "name":"VIETLINGO — Learn Vietnamese",
+ "short_name":"VIETLINGO",
+ "description":"Learn Vietnamese with guided lessons, listening, practice and games.",
+ "lang":"en","start_url":"./vietlingo_v2_2_installable.html","scope":"./",
+ "display":"standalone","orientation":"portrait",
+ "background_color":"#0b0d1d","theme_color":"#0b0d1d",
+ "categories":["education","language"],"icons":[]
+}
